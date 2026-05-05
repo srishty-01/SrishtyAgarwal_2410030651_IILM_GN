@@ -16,3 +16,5 @@ class Solution:
                 right -= 1
         
         return max_area
+
+#https://leetcode.com/u/Srishty-01/
